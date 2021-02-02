@@ -1,15 +1,15 @@
 # ReCapProject_RentACar (Odev)
 
-*Araba kiralama sistemi yazıyoruz.
+Araba kiralama sistemi yazıyoruz.
 
-Yepyeni bir proje oluşturunuz. Adı ReCapProject olacak. (Tekrar ve geliştirme projesi)
+1. Yepyeni bir proje oluşturunuz. Adı ReCapProject olacak. (Tekrar ve geliştirme projesi)
 
-Entities, DataAccess, Business ve Console katmanlarını oluşturunuz.
+2. Entities, DataAccess, Business ve Console katmanlarını oluşturunuz.
 
-Bir araba nesnesi oluşturunuz. "Car"
+3. Bir araba nesnesi oluşturunuz. "Car"
 
-Özellik olarak : Id, BrandId, ColorId, ModelYear, DailyPrice, Description alanlarını ekleyiniz. (Brand = Marka)
+4. Özellik olarak : Id, BrandId, ColorId, ModelYear, DailyPrice, Description alanlarını ekleyiniz. (Brand = Marka)
 
-InMemory formatta GetById, GetAll, Add, Update, Delete oprasyonlarını yazınız.
+5. InMemory formatta GetById, GetAll, Add, Update, Delete oprasyonlarını yazınız.
 
-Consolda test ediniz.
+6. Consolda test ediniz.
