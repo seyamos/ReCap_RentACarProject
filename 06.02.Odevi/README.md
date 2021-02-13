@@ -14,7 +14,7 @@ Araba kiralama sistemi yazıyoruz.
 
 6. Consolda test ediniz.
 
-# ReCapProject_RentACar (Odev2- 03/02  Geliştirmelere Devam)
+# ReCapProject_RentACar (Odev2- 03/02  Geliştirmeleri)
 
 Car nesnesine ek olarak;
 
@@ -38,7 +38,7 @@ Araba ismi minimum 2 karakter olmalıdır
 
 Araba günlük fiyatı 0'dan büyük olmalıdır.
 
-# ReCapProject_RentACar (Odev3- 06/02  Geliştirmelere Devam)
+# ReCapProject_RentACar (Odev3- 06/02  Geliştirmeleri)
 
 1. CarRental Projenizde Core katmanı oluşturunuz.
 
