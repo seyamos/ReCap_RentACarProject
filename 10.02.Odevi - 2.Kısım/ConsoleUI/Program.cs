@@ -60,7 +60,6 @@ namespace ConsoleUI
 
 
 
-
             Console.WriteLine("Önceki Operasyonlar");
             Console.WriteLine("Araçların Detaylı Listesi");
             var result = carManager.GetCarDetails();
