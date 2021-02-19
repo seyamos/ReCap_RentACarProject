@@ -92,5 +92,9 @@ CarRental projenizde;
 
 # ReCapProject_RentACar (Odev7- 17/02  Geliştirmeleri)
 
-1.Car Rental Projenize Autofac desteği ekleyiniz.
+1.Car Rental Projenize Autofac desteği ekleyiniz ----> ✔ Autofac eklendi
 
+2. Car Rental Projenize FluentValidation desteği ekleyiniz.
+
+3. Car Rental Projenize AOP desteği ekleyiniz.
+   ValidationAspect ekleyiniz.
