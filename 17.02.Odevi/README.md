@@ -90,3 +90,7 @@ CarRental projenizde;
 *IoC Prensibi'ni uygulamak
 *Projeyi Postman'de test etmek
 
+# ReCapProject_RentACar (Odev7- 17/02  Geliştirmeleri)
+
+1.Car Rental Projenize Autofac desteği ekleyiniz.
+
