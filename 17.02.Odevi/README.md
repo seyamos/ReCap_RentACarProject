@@ -96,5 +96,5 @@ CarRental projenizde;
 
 2. Car Rental Projenize FluentValidation desteği ekleyiniz----> ✔ FluentValidation eklendi (bir kaç ek daha yapılacak)
 
-3. Car Rental Projenize AOP desteği ekleyiniz.
-   ValidationAspect ekleyiniz.
+3. Car Rental Projenize AOP desteği ekleyiniz. ----> ✔ AOP desteği eklendi
+   ValidationAspect ekleyiniz.----> ✔ ValidationAspect eklendi
