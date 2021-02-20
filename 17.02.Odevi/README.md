@@ -72,4 +72,29 @@ CarRental projenizde;
 
 6. Yeni müşteriler ekleyiniz.
 
-7. Arabayı kiralama imkanını kodlayınız. Rental-->Add  --- Arabanın kiralanabilmesi için arabanın teslim edilmesi gerekmektedir. 
+7. Arabayı kiralama imkanını kodlayınız. Rental-->Add  --- Arabanın kiralanabilmesi için arabanın teslim edilmesi gerekmektedir.
+
+# ReCapProject_RentACar (Odev6- 13/02  Geliştirmeleri)
+
+CarRental projenizde;
+
+1. WebAPI katmanını kurunuz. ----> ✔ Kuruldu 
+
+2. Business katmanındaki tüm servislerin Api karşılığını yazınız. ----> ✔ Yazıldı
+
+3. Postman'de test ediniz.----> ✔ Test edildi
+
+Öğrendiklerimiz: 
+*WebApi oluşturmak
+*Controller yazmak
+*IoC Prensibi'ni uygulamak
+*Projeyi Postman'de test etmek
+
+# ReCapProject_RentACar (Odev7- 17/02  Geliştirmeleri)
+
+1.Car Rental Projenize Autofac desteği ekleyiniz ----> ✔ Autofac eklendi
+
+2. Car Rental Projenize FluentValidation desteği ekleyiniz.
+
+3. Car Rental Projenize AOP desteği ekleyiniz.
+   ValidationAspect ekleyiniz.
