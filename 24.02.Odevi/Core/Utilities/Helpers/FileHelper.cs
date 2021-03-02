@@ -32,6 +32,7 @@ namespace Core.Utilities.Helpers
             {
 
                 return exception.Message;
+
             }
 
             return result.Path2.Replace("\\","/");
