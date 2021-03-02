@@ -98,3 +98,21 @@ CarRental projenizde;
 
 3. Car Rental Projenize AOP desteği ekleyiniz. ----> ✔ AOP desteği eklendi
    ValidationAspect ekleyiniz.----> ✔ ValidationAspect eklendi
+   
+   # ReCapProject_RentACar (Odev8- 24/02  Geliştirmeleri)
+
+1.CarImages (Araba Resimleri) tablosu oluşturunuz. (Id,CarId,ImagePath,Date) Bir arabanın birden fazla resmi olabilir.
+
+2.Api üzerinden arabaya resim ekleyecek sistemi yazınız.
+
+3.Resimler projeniz içerisinde bir klasörde tutulacaktır. Resimler yüklendiği isimle değil, kendi vereceğiniz GUID ile dosyalanacaktır.
+
+4.Resim silme, güncelleme yetenekleri ekleyiniz.
+
+5.Bir arabanın en fazla 5 resmi olabilir.
+
+6.Resmin eklendiği tarih sistem tarafından atanacaktır.
+
+7.Bir arabaya ait resimleri listeleme imkanı oluşturunuz. (Liste)
+
+8.Eğer bir arabaya ait resim yoksa, default bir resim gösteriniz. Bu resim şirket logonuz olabilir. (Tek elemanlı liste)
