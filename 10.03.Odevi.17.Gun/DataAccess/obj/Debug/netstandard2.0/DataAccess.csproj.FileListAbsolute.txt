@@ -1,0 +1,150 @@
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete

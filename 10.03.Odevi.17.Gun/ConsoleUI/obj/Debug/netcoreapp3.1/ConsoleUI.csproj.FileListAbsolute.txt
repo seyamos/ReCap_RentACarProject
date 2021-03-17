@@ -1,0 +1,619 @@
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\06.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\09.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.02.Odevi - 2.Kısım\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\13.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\17.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\24.02.OdeviUK\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\27.02.Odevi\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\03.03.Odevi\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\seyda\source\repos\ReCap_RentACarProject\10.03.Odevi.17.Gun\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
