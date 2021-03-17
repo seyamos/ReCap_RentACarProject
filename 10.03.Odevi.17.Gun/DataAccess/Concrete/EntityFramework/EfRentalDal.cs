@@ -32,6 +32,7 @@ namespace DataAccess.Concrete.EntityFramework
                                  RentDate = r.RentDate,
                                  ReturnDate = r.ReturnDate
                              };
+
                 return result.ToList();
 
             }
