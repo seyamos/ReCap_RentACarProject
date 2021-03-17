@@ -98,3 +98,15 @@ CarRental projenizde;
 
 3. Car Rental Projenize AOP desteği ekleyiniz. ----> ✔ AOP desteği eklendi
    ValidationAspect ekleyiniz.----> ✔ ValidationAspect eklendi
+   
+# ReCapProject_RentACar (Odev8- 27/02  Geliştirmeleri)
+  
+  RentACar projenize JWT entegrasyonu yapınız. ✔ JWT eklendi
+  
+# ReCapProject_RentACar (Odev9- 10/03 - 17.Gun Geliştirmeleri, Frontend İçin)
+
+  rentals, cars, brands, customers, users tabloları join edildi ✔ (EfRentalDal, RentalDetailDto, RentACarContext)
+
+  localhost eklendi ✔ (WebApi, Startup)
+
+  Thread.Sleep() eklendi ✔ (Controllers)  
