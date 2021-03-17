@@ -81,6 +81,7 @@ namespace WebAPI.Controllers
         {
             Thread.Sleep(3000);  //frontend için *************
 
+
             var result = _carService.GetCarDetails();
             if (result.Success)
             {
