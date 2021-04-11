@@ -110,3 +110,5 @@ CarRental projenizde;
   localhost eklendi ✔ (WebApi, Startup)
 
   Thread.Sleep() eklendi ✔ (Controllers)  
+
+# ReCapProject_RentACar (Odev10- 18.Gun Geliştirmeleri, Frontend İçin)
