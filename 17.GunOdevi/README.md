@@ -113,8 +113,9 @@ CarRental projenizde;
 
 # ReCapProject_RentACar (Odev10- 18.Gun Geliştirmeleri, Frontend İçin)
    
-   Aşağıdaki frontend güncellemeleri için Business, Data Access, Entity, WebApi katmanlarında gerekli düzenlemeler yapıldı.
-   
+   Aşağıdaki frontend güncellemeleri için Business, Data Access, Entity, WebApi katmanlarında gerekli düzenlemeler ve eklemeler yapıldı.
+   (CarManager, ICarService, CarDetailDto, DBSets, CarsController...) 
+     
    Brand listesinde herhangi bir marka seçildiğinde, o markaya ait arabaları listeleyiniz.
 
    Color listesinde herhangi bir renk seçildiğinde, o renge ait arabaları listeleyiniz.
