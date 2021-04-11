@@ -100,13 +100,13 @@ namespace WebAPI
 
             app.UseHttpsRedirection();
 
+            app.UseStaticFiles();
+
             app.UseRouting();
 
             app.UseAuthentication();
 
-            app.UseAuthorization();
-
-            //app.UseStaticFiles();            
+            app.UseAuthorization();                   
 
             app.UseEndpoints(endpoints =>
             {

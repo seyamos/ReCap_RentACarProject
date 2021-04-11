@@ -21,12 +21,12 @@ namespace Business.Abstract
         IResult AddTransactionalTest(Car car);
 
 
-        //bu void. leri result döndüreceğiz artık.
-        //void Add(Car car);
-        //void Update(Car car);
-        //void Delete(Car car);
+        IDataResult<List<CarDetailDto>> GetCarDetailsByCarId(int carId);
+        IDataResult<List<CarDetailDto>> GetCarDetailsByBrandId(int brandId);
+        IDataResult<List<CarDetailDto>> GetCarDetailsByColorId(int colorId);
 
-               
+
+
 
     }
 }
