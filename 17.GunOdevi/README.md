@@ -112,3 +112,11 @@ CarRental projenizde;
   Thread.Sleep() eklendi ✔ (Controllers)  
 
 # ReCapProject_RentACar (Odev10- 18.Gun Geliştirmeleri, Frontend İçin)
+   
+   Aşağıdaki frontend güncellemeleri için Business, Data Access, Entity, WebApi katmanlarında gerekli düzenlemeler yapıldı.
+   
+   Brand listesinde herhangi bir marka seçildiğinde, o markaya ait arabaları listeleyiniz.
+
+   Color listesinde herhangi bir renk seçildiğinde, o renge ait arabaları listeleyiniz.
+
+   Car listesinde bir arabaya tıklandığında o arabaya ait detay sayfası oluşturunuz. Bu sayfada bu araca ait resimleri de gösteriniz.
